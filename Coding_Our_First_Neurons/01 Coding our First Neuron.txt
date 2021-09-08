@@ -1,0 +1,15 @@
+Let’s say we have a single neuron, and there are three inputs to this neuron : [1, 2, 3] 
+
+Each input also needs a weight associated with it : [0.2, 0.8, -0.5] 
+
+Since we’re modeling a single neuron, we only have one bias : 2 
+
+Neuron output : 2.3 
+
+What if we have N number of inputs . . . 
+
+N = 5
+Inputs = [4, 57, 37, 36, 84]
+Weights = [0.6854648885394528, -0.5979721689771043, -0.3209605818459047, 0.5177930261919403, 0.7478832056548108]
+Bias = 0.006526732901407151
+2.3000000000000003

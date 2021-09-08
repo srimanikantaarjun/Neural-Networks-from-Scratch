@@ -1,0 +1,1 @@
+Dot product of two vectors (similar to high school linear algebra) 20
